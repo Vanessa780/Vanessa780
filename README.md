@@ -9,7 +9,7 @@
 
   <br>
 
-<h2 align="left">
+<h2 align="center">
    Skills
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
   
@@ -34,7 +34,7 @@
 
 
 
-<h2 align="left"> Github Stats <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="40px" height="40px" alt="Moon"></a></h1>
+<h2 align="center"> Github Stats <img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="40px" height="40px" alt="Moon"></a></h1>
 <h3 align="center">
 
 
@@ -65,7 +65,7 @@
 
 </p>        
 <!--- stats (end) -->
-<h2 align="left"> Let's Connect..! <img  swidth="40px" height="40px" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<h2 align="center"> Let's Connect! <img  swidth="40px" height="40px" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
   
 <p align="center">
 	<a href="https://www.linkedin.com/in/vanessa-alvarado-316236182"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
